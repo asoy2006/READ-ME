@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm raksa</h1>
 <h3 align="center">I like developing interesting things, from software to robotics. I am a developer from Indonesia.</h3>
 
-- ⚡ Fun fact **i"m unny**
+- ⚡ Fun fact **i"m funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
